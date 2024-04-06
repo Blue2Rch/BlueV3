@@ -1,4 +1,0 @@
-local configlist = {
-    ["BoonDocks"] = true,
-}
-return configlist
