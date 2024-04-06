@@ -1,0 +1,8 @@
+local configlist = {
+    "gopurple",
+    "gored",
+    "goblue",
+    "gogreen",
+    "purptt"
+}
+return configlist
